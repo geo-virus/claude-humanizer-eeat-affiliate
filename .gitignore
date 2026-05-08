@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Claude
+.claude/
+
+# Cursor
+.cursor/
+
+# IDEs
+.vscode/
+.idea/
+
+# Test outputs
+test-output/
+drafts/
+*.draft.md
