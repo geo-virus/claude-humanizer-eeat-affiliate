@@ -5,7 +5,7 @@ description: >
   Detects AI writing patterns and rewrites affiliate SEO content with human rhythm,
   Google E-E-A-T signals, and conversion-optimized structure. Designed for product
   reviews, comparison posts, roundups, and buyer's guides.
-author: geovirus
+author: geo-virus
 tags:
   - seo
   - affiliate
